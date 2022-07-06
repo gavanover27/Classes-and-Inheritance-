@@ -1,0 +1,57 @@
+Fish (Animal)
+------
+------
++ swim()
+
+Snake (Animal)
+------
++ poisionous status: boolean
+------
++ shed()
++ bite()
+
+Person (Animal)
+------
++ hair color: str
+------
++ talk()
+
+Textbook (Book)
+------
++ subject: str
+------
+
+Address book (Book)
+------
+------
++ write()
+
+Car (Vehicle)
+------
++ make:str
++ model: str
++ miles: int
++ mpg: int
+------
++ brake()
+
+Bicycle (Vehicle)
+-------
++ brand: str
+-------
++ wheelie()
++ brake()
+
+Boat (Vehicle)
+------
++ brand: str
++ type: str
+------
++ brake()
+
+Hot-Air Balloon (Vehicle)
+------
++ Size: int
+------
++ rise()
++ fall()
